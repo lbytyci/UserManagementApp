@@ -6,34 +6,8 @@ A major highlight of this project is its deployment as a cross-platform desktop 
 
 # 📁 Project Structure
 
-USERMANAGEMENTAPP/
-├── node_modules/
-├── public/
-│   └── index.html      
-├── src/
-│   ├── assets/                 
-│   │   ├── 8.jpg 
-│   │   ├── minimize.png
-│   │   └── x.png
-│   ├── components/             
-│   │   ├── AddUserForm.js
-│   │   ├── EditUserForm.js   
-│   │   ├── FloatingElements.js
-│   │   ├── Header.js          
-│   │   ├── SearchBar.js
-│   │   └── UserList.js
-│   ├── context/                
-│   │   └── UserContext.js     
-│   ├── pages/                  
-│   │   ├── UserDetailPage.js
-│   │   └── UserListPage.js
-│   ├── App.js                  
-│   ├── index.css               
-│   └── index.js        
-├── main.js                    
-├── package-lock.json
-├── package.json                
-└── preload.js  
+![user](https://github.com/user-attachments/assets/2f420c2f-9d20-49e7-bbd6-157163767fa3)
+
 
 # ✨App View
 
